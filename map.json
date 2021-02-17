@@ -99,6 +99,12 @@
          "id":7,
          "name":"Whiteboard3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"<iframe src=\"https:\/\/open.spotify.com\/embed\/track\/1FHNctV68GUNLgXclG2DtR\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"><\/iframe>"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -281,6 +287,12 @@
  "nextlayerid":23,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"openWebsite",
+         "type":"string",
+         "value":"https:\/\/open.spotify.com\/track\/1FHNctV68GUNLgXclG2DtR?si=9c5ef9f27c3c4e68"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.2",
  "tileheight":32,
