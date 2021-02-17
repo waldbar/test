@@ -63,6 +63,12 @@
          "id":5,
          "name":"Whiteboard1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/padlet.com\/buero39\/flm0m2gpcbnv2t83"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
